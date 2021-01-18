@@ -1,7 +1,11 @@
 # APIを活用して情報を取得する課題です。
 # APIを活用することにより複雑なプログラムを簡単に構築することができます。
 
-- 楽天API
+- requestsモジュール  
+requestsモジュールを使用してAPIをコールします。  
+https://note.nkmk.me/python-requests-usage/
+
+- 楽天API  
 https://webservice.rakuten.co.jp/document/
 
 # 1
