@@ -14,7 +14,7 @@ https://webservice.rakuten.co.jp/document/
 https://webservice.rakuten.co.jp/api/ichibaitemsearch/
 
 # 2 
-以下のAPIを使って、任意の商品の最安値と最高値を取得してみましょう
+以下のAPIを使って、任意の商品の最安値と最高値を取得してみましょう  
 https://webservice.rakuten.co.jp/api/productsearch/
 
 # 3
