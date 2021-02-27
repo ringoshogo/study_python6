@@ -8,6 +8,9 @@ https://note.nkmk.me/python-requests-usage/
 - 楽天API  
 https://webservice.rakuten.co.jp/document/
 
+- 参考  
+https://qiita.com/DisneyAladdin/items/d136a04b715de59ade57
+
 # 1
 以下の仕様を参考にして、任意のキーワードでAPIを検索した時の
 商品名と価格の一覧を取得してみましょう
