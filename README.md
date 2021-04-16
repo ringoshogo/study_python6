@@ -28,3 +28,13 @@ https://webservice.rakuten.co.jp/api/productsearch/
 # 4
 以下のAPIを使って、任意のジャンルのランキング一覧を取得し、CSV出力してみましょう
 https://webservice.rakuten.co.jp/api/ichibaitemranking/
+
+# 5
+pytestをinstallして、単体テストを実施してみましょう<BR>
+- インストール<BR>
+`pip install pytest`<BR>
+- テスト実行<BR>
+`python -m pytest <pyファイルのpath>::<テストしたい関数名> -s`  <BR>
+ 
+参考<BR>
+https://webbibouroku.com/Blog/Article/pytest#outline__3_1
