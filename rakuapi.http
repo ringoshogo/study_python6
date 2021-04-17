@@ -1,0 +1,22 @@
+https://app.rakuten.co.jp/services/api/IchibaItem/Search/20170706
+?format=json
+&keyword=%E6%A5%BD%E5%A4%A9
+&applicationId={{appid}}
+&hits=3
+&page=1
+content-type: application/json
+
+{
+    "name": "sample",
+    "time": "Wed, 21 Oct 2015 18:27:50 GMT"
+}
+
+###
+
+https://app.rakuten.co.jp/services/api/Product/Search/20170426
+?format=json
+&keyword=%E6%A5%BD%E5%A4%A9
+&applicationId={{appid}}
+&hits=3
+&page=1
+content-type: application/json
